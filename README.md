@@ -35,14 +35,14 @@
 
 <div align="center">
   
-![MinhyukK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyukK0&show_icons=true&theme=github_dark)
+![MinhyukK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyukK0&count_private=true&show_icons=true&theme=github_dark)
 
 <h3 align="center">
   🌱 Language Share 🌱
 </h3>
  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyukK0&layout=compact&theme=github_dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyukK0&count_private=true&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MinhyukK0/MinhyukK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
