@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 </div>
 
+#### AI Tools
+<div>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=Anthropic&logoColor=white"/>
+</div>
+
 #### Tools & Collaboration
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
