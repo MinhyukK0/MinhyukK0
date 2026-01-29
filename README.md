@@ -23,6 +23,7 @@
 <div>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka%20(KRaft)-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white"/>
 </div>
 
 #### Database
