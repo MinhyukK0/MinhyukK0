@@ -51,12 +51,4 @@
 
 <br/>
 
-## Contact
-
-<div>
-  <a href="https://velog.io/@minhyuk_ko"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-</div>
-
-<br/>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:4a90d9&height=150&section=footer)
