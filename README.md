@@ -45,8 +45,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhyukK0&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyukK0&count_private=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-iota-jet-20.vercel.app/api?username=MinhyukK0&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-iota-jet-20.vercel.app/api/top-langs/?username=MinhyukK0&count_private=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 <br/>
