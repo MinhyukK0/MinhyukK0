@@ -1,59 +1,56 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MinHyuk%20Ko&fontSize=90&animation=fadeIn&fontAlignY=38&desc=✨Backend%20Developer✨&descAlignY=55&descAlign=65)
-<h3 align="center">
-    🛠 Tech Stack 🛠
-</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:4a90d9&height=250&section=header&text=MinHyuk%20Ko&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-ffde57?style=flat&logo=Python&logoColor=4584b6"/>
-  <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<br/>
+
+## Tech Stack
+
+#### Languages
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-<h3 align="center">
-   💬 Communication tool 💬
-</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=4584b6"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=092E20"/>
-  
+#### Backend Frameworks
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white"/>
 </div>
 
-<h3 align="center">
-  🤔 About Me 🤔
-</h3>
-<div align="center">
-  <a href="https://velog.io/@minhyuk_ko"><img src="https://img.shields.io/badge/Velog-00B388?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@minhyuk_ko"/></a>
-
+#### Database
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 </div>
 
-<h3 align="center">
- ⚡ GitHub Stats ⚡
-</h3>
+#### Tools & Collaboration
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/>
+</div>
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
-  
-![MinhyukK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyukK0&count_private=true&show_icons=true&theme=github_dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhyukK0&count_private=true&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyukK0&count_private=true&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+</div>
 
-<h3 align="center">
-  🌱 Language Share 🌱
-</h3>
- 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyukK0&count_private=true&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**MinhyukK0/MinhyukK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://velog.io/@minhyuk_ko"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:4a90d9&height=150&section=footer)
